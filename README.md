@@ -1,2 +1,2 @@
 # VoitureLOX
-simple tkinter app to manage rental cars
+  tkinter app to manage rental cars
